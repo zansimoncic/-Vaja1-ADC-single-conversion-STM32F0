@@ -8,6 +8,6 @@ e) Izbrani ADC pretvornik(i) ima(jo) oznako s trikotnikom. Kaj to pomeni? To pom
 
 f) Koliko je vseh vhodnih kanalov (seštejte oznake INxx). Skupno je 15 vhodnih kanalov. 
 
-g) Na zaslonu se vam mora usterzno pobarvati izbrani pin v zeleno barvo. Kaj se izpiše poleg pina? ADC1_IN3 
+g) Na zaslonu se vam mora usterzno pobarvati izbrani pin v zeleno barvo. Kaj se izpiše poleg pina? ADC1_IN3, pin PC2
 
 i) Preglejte, kakšne so še ostale možne ločljivosti pretvorbe in območja vrednosti? 10bit, od 0 do 1023, 12bit, od 0 do 4095, 14bit, od 0 do 16383.
